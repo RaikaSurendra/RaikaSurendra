@@ -13,7 +13,7 @@ I'm a passionate developer from India specializing in **ServiceNow** and **Go**,
 - 🔭 Currently working on ServiceNow implementations and Go projects
 - 🌱 Learning advanced C++ concepts from MIPT's Master's course
 - 💡 Interested in cloud-native development and automation
-- 📫 How to reach me: **[Your Email]** or connect with me below
+- 📫 How to reach me: **[surendra.raika@yahoo.co.in]** or connect with me below
 
 ## 🛠️ Tech Stack
 
